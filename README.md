@@ -1,7 +1,26 @@
-### 1.8.9 Forge Template for Kotlin
+# Floppa-Client
 
-This tempalte is meant to serve as a base configuration for gradle & loom. While creating my first mod in kotlin, I stuggled very much setting up a project. This repo is for everyone to use so they do not have to experience that.
+Floppa Client is a 1.8.9 Minecraft Forge mod that provides a collection of qol features for Hypixel Skyblock 
+with a focus on Dungeons. 
 
-### Usage
+## General Information
 
-Clone the repo and run the run script `loom/genIntelliJRuns`. This will generate the run configurations for IntelliJ. When you are ready to test, run the `loom/runClient` run config to start a Minecraft instance. Once ready to publish / use, run `build/jar`. Have fun!
+Some features in this mod violate the 
+[Hypixel Server Rules](https://support.hypixel.net/hc/en-us/articles/6472550754962-Allowed-Modifications).
+Usage of the mod is at your own risk.
+If you are looking for an allowed modification check out [Aton Addons](https://github.com/FloppaCoding/AtonAddons).
+
+Open the Gui with /floppaclient (or /fcl or /fc).
+
+See [Feature List](docs/Feature_List.md) for information about the features of this mod.
+
+## Making your own Modules
+To get started with coding on your own, check out the [wiki](https://github.com/FloppaCoding/FloppaClient/wiki).
+You can either make external Modules or contribute to the main mod.
+
+## Credit to other Projects
+A special thank goes to [Harry282](https://github.com/Harry282), his projects allowed me to get started with making my own
+forge mods.
+<br>
+[For the list of sources click here.](docs/USEFUL_SOURCES.md "Credits")
+
