@@ -17,7 +17,7 @@ plugins {
 }
 
 version = "1.5.0-pre2"
-group = "com.example"
+group = "com.x45k.weedclient"
 
 repositories {
     mavenLocal()
