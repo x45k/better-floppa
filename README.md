@@ -1,3 +1,5 @@
+THIS IS MODIFIED TO HAVE NO BANNABLE FEATURES, IF ONE FEATURE IS BANNABLE, MAKE AN ISSUE AND I WILL REMOVE IT
+
 # Floppa-Client
 
 Floppa Client is a 1.8.9 Minecraft Forge mod that provides a collection of qol features for Hypixel Skyblock 
