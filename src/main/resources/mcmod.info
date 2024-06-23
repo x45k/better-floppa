@@ -1,14 +1,15 @@
 [
   {
-    "modid": "fc",
-    "name": "Floppa Client",
-    "description": "MILF (Man i love Floppa).",
+    "modid": "weedclient",
+    "name": "Weed Client",
+    "description": "want some?",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "Aton"
+      "x45",
+      "greenish"
     ]
   }
 ]

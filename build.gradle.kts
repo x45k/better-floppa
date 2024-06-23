@@ -24,7 +24,7 @@ buildscript {
 
 // This variable determine the filename of the produced jar file.
 version = "1.0.3-0.2"
-group = "floppaclient"
+group = "com.x45k.weedclient"
 
 repositories {
     maven("https://repo.spongepowered.org/repository/maven-public/")
